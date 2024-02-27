@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neerajaChoragudi
-- 👀 I’m interested in DATA
-- 🌱 I’m actively seeking opportunities to apply and enhance my skill set in data analytics.
+- 👀 Interested in DATA
+- 🌱 Actively seeking opportunities to apply and enhance my skill set in data analytics.
 - 📫 How to reach me <neeraja.choragudi.503@gmail.com>
 
   
