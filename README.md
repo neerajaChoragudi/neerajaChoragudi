@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neerajaChoragudi
 - 👀 I’m interested in DATA
-- 🌱 I’m currently looking for data analyst job to showcase myskills
--  📫 How to reach me <https://mail.google.com/mail/u/1/#inbox>
+- 🌱 I’m actively seeking opportunities to apply and enhance my skill set in data analytics.
+- 📫 How to reach me <neeraja.choragudi.503@gmail.com>
 
   
 
