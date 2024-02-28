@@ -1,6 +1,5 @@
-## Hi there I👋 , I’m Neeraja ##
-
-_______________________________________________________________________________________________________________
+ <h1 align="center">Hi there👋, I'm Neeraja</h1>
+<h3 align="center">Data Analyst</h3>
 
 - 👀 Interested in DATA
 - 🌱 Actively seeking opportunities to apply and enhance my skill set in data analytics.
