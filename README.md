@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @neerajaChoragudi
+## Hi there I👋 , I’m Neeraja ##
+
+_______________________________________________________________________________________________________________
+
 - 👀 Interested in DATA
 - 🌱 Actively seeking opportunities to apply and enhance my skill set in data analytics.
 - 📫 How to reach me <neeraja.choragudi.503@gmail.com>
